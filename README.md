@@ -7,4 +7,4 @@ Editing those pictures in sequence in a video shows how time changes your facial
 This script aligns those images based on the facial features it detects and outputs the timelapse as a video file.<br/>
 All the instructions to setup the script are commented inside it. Have fun!<br/>
 <br/>
-Youtube video: 
+Youtube video: https://youtu.be/DcnKeF0rjZU
